@@ -26,8 +26,8 @@ View the optimal layout depending on their device's screen size
 
 ### Links
 
-- [Solution:](https://github.com/minhlong149/stats-preview-card-component/)
-- [Live Site: ](https://minhlong149.github.io/stats-preview-card-component/)
+- [Solution](https://github.com/minhlong149/stats-preview-card-component/)
+- [Live Site](https://minhlong149.github.io/stats-preview-card-component/)
 
 ## My process
 
