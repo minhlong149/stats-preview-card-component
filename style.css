@@ -110,6 +110,10 @@ picture {
     margin: 2em auto 1em;
   }
 
+  .stat {
+    font-size: 2em;
+  }
+
   .info {
     align-items: center;
     margin: 1em;

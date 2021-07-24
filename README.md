@@ -51,13 +51,26 @@ Centering element using grid:
 ```
 
 Rounding a div (With element like images inside):
+
 ```css
 .rounded-border {
   overflow: hidden;
   border-radius: 10px;
 }
 ```
-Some issues happended with the image can be fixed like this:
+
+Using `<picture>` for responsive images on diffent devices:
+
+```html
+<picture>
+  <source media="(min-width: 1024px)" srcset="./images/image-header-desktop.jpg" width="540px" height="446">
+  <source srcset="./images/image-header-mobile.jpg" width="654" height="480">
+  <img src="./images/image-header-mobile.jpg" width="654" height="480">
+</picture>
+```
+
+Some issues happended can be fixed like this:
+
 ```css
 picture {
   font-size: 0;
