@@ -13,7 +13,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -27,8 +26,8 @@ View the optimal layout depending on their device's screen size
 
 ### Links
 
-- [Solution:](#)
-- [Live Site: ](#)
+- [Solution:](https://github.com/minhlong149/stats-preview-card-component/)
+- [Live Site: ](https://minhlong149.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -50,7 +49,7 @@ Centering element using grid:
 }
 ```
 
-Rounding a div (With element like images inside):
+Rounding a div with elements like images inside:
 
 ```css
 .rounded-border {
